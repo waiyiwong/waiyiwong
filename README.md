@@ -1,7 +1,7 @@
 # Hi there, I'm Wai Yi Wong! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=waiyiwong&color=green)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-darkgreen)](www.linkedin.com/in/waiyi-wong)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-darkgreen)](https://www.linkedin.com/in/waiyi-wong)
 [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:wongwaverley@gmail.com)
 
 > Welcome to my GitHub profile! I'm a passionate Data Analyst and Software Developer. Here's a bit about me:
