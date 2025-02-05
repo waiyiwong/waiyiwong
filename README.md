@@ -1,9 +1,10 @@
-# Wai Yi Wong
+# Hi there, I'm Wai Yi Wong! 👋
 
-> Data Analyst and Software Developer
-
+![Profile Views](https://komarev.com/ghpvc/?username=waiyiwong&color=green)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-darkgreen)](www.linkedin.com/in/waiyi-wong)
 [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:wongwaverley@gmail.com)
+
+> Welcome to my GitHub profile! I'm a passionate Data Analyst and Software Developer. Here's a bit about me:
 
 ## About Me
 Passionate about using data and code to shape a better future, I bring a strong background in psychology and education, recently upskilled in programming for data analysis, visualisation, and software development. With over nine years of teaching experience, I excel in analytical thinking, project management, and presentation. My goal is to leverage my expertise in research and education, alongside modern data analytics and software development, to drive impactful insights and innovative solutions.
@@ -46,7 +47,11 @@ A platform integrating AI-powered affirmations and mindfulness resources for str
 
 - Leveraging data analytics and software development to solve real-world problems  
 - Enhancing user experience through AI-powered and data-driven solutions  
-- Continuous learning in Python, machine learning, and data visualisation  
+- Continuous learning in Python, machine learning, and data visualisation
+
+## 🌱 Currently Learning
+- React
+- Machine Learning
 
 ## 📬 Connect With Me
 
