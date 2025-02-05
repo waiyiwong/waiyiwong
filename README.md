@@ -24,7 +24,7 @@ const myTechStack = {
 
 ## 🚀 Key Projects
 ### [Zero Waste Cooking (Django Web App)](https://github.com/waiyiwong/Zero_Waste_Cooking)
-<p align="center">
+<p align="left">
     <img src="img/ZeroWasteLogo.jpg" alt="Zero Waste Cooking Logo" style="width: 200px; height: auto;">
 </p>
 
@@ -35,7 +35,7 @@ A web application promoting sustainable cooking by helping users reduce food was
 - **GitHub**: [View Project](https://github.com/waiyiwong/Zero_Waste_Cooking)
 
 ### [UniSphere (Hackathon Project: College Connect Platform)](https://github.com/waiyiwong/Hackathon_UniSphere)
-<p align="center">
+<p align="left">
     <img src="img/UnisphereLogo.png" alt="UniSphere Logo" style="width: 120px; height: auto;">
 </p>
 
@@ -46,7 +46,7 @@ A platform for students to collaborate, find resources, and network with peers.
 
 
 ### [Blockbuster Battle (Hackathon Project: Movie Grossing Quiz)](https://github.com/waiyiwong/Hackathon1_Blockbuster_Battle)
-<p align="center">
+<p align="left">
     <img src="img/BlockbusterBattleLogo.png" alt="UniSphere Logo" style="width: 200px; height: auto;">
 </p>
 
@@ -55,7 +55,7 @@ An interactive quiz that challenges users to guess the higher-grossing movie.
 - **GitHub**: [View Project](https://github.com/waiyiwong/Hackathon1_Blockbuster_Battle)
 
 ### [Mindful Yoga Website](https://github.com/waiyiwong/mindful_yog)
-<p align="center">
+<p align="left">
     <img src="img/MindfulYogaLogo.png" alt="UniSphere Logo" style="width: 120px; height: auto;">
 </p>
 
