@@ -55,9 +55,9 @@ A platform integrating AI-powered affirmations and mindfulness resources for str
 
 ## 📬 Connect With Me
 
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-green)](www.linkedin.com/in/waiyi-wong)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-green)](https://www.linkedin.com/in/waiyi-wong)
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-View-blue)](https://github.com/waiyiwong)
-- **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-View-purple)]([https://github.com/waiyiwong](https://github.com/waiyiwong))
+- **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-View-purple)](https://github.com/waiyiwong)
 
 ---
 *Build Tomorrow with Code and Analytics* 🚀
