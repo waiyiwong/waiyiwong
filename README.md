@@ -23,22 +23,42 @@ const myTechStack = {
 ```
 
 ## 🚀 Key Projects
-### Zero Waste Cooking (Django Web App)
+### [Zero Waste Cooking (Django Web App)](https://github.com/waiyiwong/Zero_Waste_Cooking)
+<p align="center">
+    <img src="img/ZeroWasteLogo.jpg" alt="Zero Waste Cooking Logo" style="width: 200px; height: auto;">
+</p>
+
+
 A web application promoting sustainable cooking by helping users reduce food waste with a custom AI chatbot for recipe suggestions.
-- **Tech Stack**: Django, PostgreSQL, HTML, CSS, JavaScript, Gemini AI  
+
+- **Tech Stack**: Django, PostgreSQL, HTML, CSS, JavaScript, Gemini AI 
 - **GitHub**: [View Project](https://github.com/waiyiwong/Zero_Waste_Cooking)
 
-### UniSphere (Hackathon Project: College Connect Platform)
+### [UniSphere (Hackathon Project: College Connect Platform)](https://github.com/waiyiwong/Hackathon_UniSphere)
+<p align="center">
+    <img src="img/UnisphereLogo.png" alt="UniSphere Logo" style="width: 120px; height: auto;">
+</p>
+
 A platform for students to collaborate, find resources, and network with peers.
 - **Tech Stack**: Django, Bootstrap, JavaScript, PostgreSQL  
 - **GitHub**: [View Project](https://github.com/waiyiwong/Hackathon_UniSphere)
 
-### Blockbuster Battle (Hackathon Project: Movie Grossing Quiz)
+
+
+### [Blockbuster Battle (Hackathon Project: Movie Grossing Quiz)](https://github.com/waiyiwong/Hackathon1_Blockbuster_Battle)
+<p align="center">
+    <img src="img/BlockbusterBattleLogo.png" alt="UniSphere Logo" style="width: 200px; height: auto;">
+</p>
+
 An interactive quiz that challenges users to guess the higher-grossing movie.
 - **Tech Stack**: JavaScript, HTML, CSS  
 - **GitHub**: [View Project](https://github.com/waiyiwong/Hackathon1_Blockbuster_Battle)
 
-### Mindful Yoga Website
+### [Mindful Yoga Website](https://github.com/waiyiwong/mindful_yog)
+<p align="center">
+    <img src="img/MindfulYogaLogo.png" alt="UniSphere Logo" style="width: 120px; height: auto;">
+</p>
+
 A platform integrating AI-powered affirmations and mindfulness resources for stress relief.
 - **Tech Stack**: Bootstrap, JavaScript, AI integrations  
 - **GitHub**: [View Project](https://github.com/waiyiwong/mindful_yoga)
