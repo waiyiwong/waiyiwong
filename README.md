@@ -17,51 +17,54 @@ const myTechStack = {
     'software_dev': ['Git', 'Agile', 'API'],
     'cloud_platforms': ['Cloudinary', 'Heroku'],
     'databases': ['PostgreSQL'],
-    'data_tools': ['Pandas', "NumPy", "Matplotlib", "Seaborn"],
-    'machine_learning': ['Scikit-Learn', 'OpenAI']
+    'data_tools': ['Pandas', 'NumPy', 'Matplotlib', 'Seaborn'],
+    'machine_learning': ['Scikit-Learn'],
+    'graphic_design': ['Adobe Photoshop', 'Adobe Fresco', 'Canva'],
+    'general_AI_tools': ['OpenAI', 'Gemini', 'Preplexity', 'Microsoft Copilot'],
+    'AI_tools_for_coding': ['Github Copilot', 'Cursor']
 };
 ```
 
 ## 🚀 Key Projects
-### [Zero Waste Cooking (Django Web App)](https://github.com/waiyiwong/Zero_Waste_Cooking)
-<p align="left">
-    <img src="img/ZeroWasteLogo.jpg" alt="Zero Waste Cooking Logo" style="width: 200px; height: auto;">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/waiyiwong/Zero_Waste_Cooking">
+        <img src="img/ZeroWasteLogo.jpg" alt="Zero Waste Cooking Logo" width="128">
+        <br>
+        <b>Zero Waste Cooking</b>
+      </a>
+      <p>A sustainable cooking web app using AI-powered recipe suggestions.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/waiyiwong/Hackathon_UniSphere">
+        <img src="img/UnisphereLogo.png" alt="UniSphere Logo" width="120">
+        <br>
+        <b>UniSphere</b>
+      </a>
+      <p>A student collaboration platform for networking and resources.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/waiyiwong/Hackathon1_Blockbuster_Battle">
+        <img src="img/BlockbusterBattleLogo.png" alt="Blockbuster Battle Logo" width="128">
+        <br>
+        <b>Blockbuster Battle</b>
+      </a>
+      <p>An interactive quiz challenging users to guess the higher-grossing movie.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/waiyiwong/mindful_yoga">
+        <img src="img/MindfulYogaLogo.png" alt="Mindful Yoga Logo" width="120">
+        <br>
+        <b>Mindful Yoga</b>
+      </a>
+      <p>A mindfulness platform with AI-powered affirmations and resources.</p>
+    </td>
+  </tr>
+</table>
 
-
-A web application promoting sustainable cooking by helping users reduce food waste with a custom AI chatbot for recipe suggestions.
-
-- **Tech Stack**: Django, PostgreSQL, HTML, CSS, JavaScript, Gemini AI 
-- **GitHub**: [View Project](https://github.com/waiyiwong/Zero_Waste_Cooking)
-
-### [UniSphere (Hackathon Project: College Connect Platform)](https://github.com/waiyiwong/Hackathon_UniSphere)
-<p align="left">
-    <img src="img/UnisphereLogo.png" alt="UniSphere Logo" style="width: 120px; height: auto;">
-</p>
-
-A platform for students to collaborate, find resources, and network with peers.
-- **Tech Stack**: Django, Bootstrap, JavaScript, PostgreSQL  
-- **GitHub**: [View Project](https://github.com/waiyiwong/Hackathon_UniSphere)
-
-
-
-### [Blockbuster Battle (Hackathon Project: Movie Grossing Quiz)](https://github.com/waiyiwong/Hackathon1_Blockbuster_Battle)
-<p align="left">
-    <img src="img/BlockbusterBattleLogo.png" alt="UniSphere Logo" style="width: 200px; height: auto;">
-</p>
-
-An interactive quiz that challenges users to guess the higher-grossing movie.
-- **Tech Stack**: JavaScript, HTML, CSS  
-- **GitHub**: [View Project](https://github.com/waiyiwong/Hackathon1_Blockbuster_Battle)
-
-### [Mindful Yoga Website](https://github.com/waiyiwong/mindful_yog)
-<p align="left">
-    <img src="img/MindfulYogaLogo.png" alt="UniSphere Logo" style="width: 120px; height: auto;">
-</p>
-
-A platform integrating AI-powered affirmations and mindfulness resources for stress relief.
-- **Tech Stack**: Bootstrap, JavaScript, AI integrations  
-- **GitHub**: [View Project](https://github.com/waiyiwong/mindful_yoga)
 
 ## 🎯 Professional Goals
 
