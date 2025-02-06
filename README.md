@@ -29,6 +29,14 @@ const myTechStack = {
 ## 🚀 Key Projects
 <table>
   <tr>
+  <td align="center">
+      <a href="https://github.com/waiyiwong/Hackathon_UniSphere">
+        <img src="img/UnisphereLogo.png" alt="UniSphere Logo" width="120">
+        <br>
+        <b>UniSphere</b>
+      </a>
+      <p>A student collaboration platform for networking and resources.</p>
+    </td>
     <td align="center">
       <a href="https://github.com/waiyiwong/Zero_Waste_Cooking">
         <img src="img/ZeroWasteLogo.jpg" alt="Zero Waste Cooking Logo" width="128">
@@ -36,14 +44,6 @@ const myTechStack = {
         <b>Zero Waste Cooking</b>
       </a>
       <p>A sustainable cooking web app using AI-powered recipe suggestions.</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/waiyiwong/Hackathon_UniSphere">
-        <img src="img/UnisphereLogo.png" alt="UniSphere Logo" width="120">
-        <br>
-        <b>UniSphere</b>
-      </a>
-      <p>A student collaboration platform for networking and resources.</p>
     </td>
   </tr>
   <tr>
@@ -74,8 +74,11 @@ const myTechStack = {
 - Continuous learning in Python, machine learning, and data visualisation
 
 ## 🌱 Currently Learning
-- React
 - Machine Learning
+
+## 🔜 To be Learning
+- SQL 
+- React
 
 ## 📬 Connect With Me
 
