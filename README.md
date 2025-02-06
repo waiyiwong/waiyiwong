@@ -22,6 +22,7 @@ const myTechStack = {
     'graphic_design': ['Adobe Photoshop', 'Adobe Fresco', 'Canva'],
     'general_AI_tools': ['OpenAI', 'Gemini', 'Preplexity', 'Microsoft Copilot'],
     'AI_tools_for_coding': ['Github Copilot', 'Cursor']
+    'AI_tools_for_images': ['Fotor', 'Freepik']
 };
 ```
 
