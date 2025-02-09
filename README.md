@@ -22,8 +22,8 @@ const myTechStack = {
     data_tools: ['Pandas', 'NumPy', 'Matplotlib', 'Seaborn'],
     machine_learning: ['Scikit-Learn'],
     graphic_design: ['Adobe Photoshop', 'Adobe Fresco', 'Canva'],
-    general_AI_tools: ['OpenAI', 'Gemini', 'Preplexity', 'Microsoft Copilot'],
-    AI_tools_for_coding: ['Github Copilot', 'Cursor'],
+    general_AI_tools: ['OpenAI', 'Gemini', 'Perplexity', 'Microsoft Copilot'],
+    AI_tools_for_coding: ['Github Copilot', 'v0'],
     AI_tools_for_images: ['Fotor', 'Freepik']
 };
 ```
@@ -73,7 +73,7 @@ const myTechStack = {
 
 - 🔍 Leveraging data analytics for real-world solutions
 - 🎨 Enhancing user experience through AI-powered design
-- 📊 Advanced data visualization techniques
+- 📊 Advanced data visualisation techniques
 
 ## 📚 Learning Journey
 
