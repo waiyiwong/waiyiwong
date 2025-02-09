@@ -6,8 +6,10 @@
 
 > Welcome to my GitHub profile! I'm a passionate Data Analyst and Software Developer. Here's a bit about me:
 
-## About Me
-Passionate about using data and code to shape a better future, I bring a strong background in psychology and education, recently upskilled in programming for data analysis, visualisation, and software development. With over nine years of teaching experience, I excel in analytical thinking, project management, and presentation. My goal is to leverage my expertise in research and education, alongside modern data analytics and software development, to drive impactful insights and innovative solutions.
+## About Me ❤️
+I'm a tech enthusiast with a unique twist—- my journey began in psychology and education. After spending 8 years as a psychology lecturer, I developed a strong foundation in analytical thinking, project management, and communication. Now, I’m excited to bring these skills to the world of tech, solving real-world problems with code and data.
+
+When I'm not coding, you’ll likely find me singing, experimenting in the kitchen, or exploring the latest AI tools. I love blending creativity with tech-— whether it’s designing user-friendly experiences, building innovative solutions, or perfecting the art of cooking and plating. 💖✨
 
 ## 🛠️ Technical Stack
 ```javascript
@@ -69,16 +71,14 @@ const myTechStack = {
 
 ## 🎯 Professional Goals
 
-- Leveraging data analytics and software development to solve real-world problems  
-- Enhancing user experience through AI-powered and data-driven solutions  
-- Continuous learning in Python, machine learning, and data visualisation
+- 🔍 Leveraging data analytics for real-world solutions
+- 🎨 Enhancing user experience through AI-powered design
+- 📊 Advanced data visualization techniques
 
-## 🌱 Currently Learning
-- Machine Learning
+## 📚 Learning Journey
 
-## 🔜 To be Learning
-- SQL 
-- React
+- 🌱 **Currently Learning:** Machine Learning
+- 🔜 **Up Next:** SQL, React
 
 ## 📬 Connect With Me
 
