@@ -78,7 +78,7 @@ const myTechStack = {
 ## 📚 Learning Journey
 
 - 🌱 **Currently Learning:** Machine Learning
-- 🔜 **Up Next:** SQL, React
+- 🔜 **Up Next:** MySQL, React Native
 
 ## 📬 Connect With Me
 
